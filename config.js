@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: 'Roberto Alves', // <title>
   manifestName: 'Roberto Alves',
   manifestShortName: 'Roberto Alves', // max 12 characters
-  manifestStartUrl: '/',
+  manifestStartUrl: 'https://robertoalves.vercel.app',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
