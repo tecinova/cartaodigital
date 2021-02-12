@@ -1,36 +1,41 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Identity', // <title>
-  manifestName: 'Identity',
-  manifestShortName: 'Landing', // max 12 characters
+  siteTitle: 'Roberto Alves', // <title>
+  manifestName: 'Roberto Alves',
+  manifestShortName: 'Roberto Alves', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-identity/`, // This path is subpath of your hosting https://domain/portfolio
-  authorName: 'Anubhav Srivastava',
-  heading: 'Web Developer',
+  authorName: 'Roberto Alves',
+  heading: 'Tecnólogo',
   // social
   socialLinks: [
     {
-      icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      icon: 'fa-globe',
+      name: 'Website',
+      url: 'https://tecinovaservicos.com.br',
+    },
+     {
+      icon: 'fa-whatsapp',
+      name: 'WhatsApp',
+      url: 'https://api.whatsapp.com/send/?phone=5573999384167',
     },
     {
-      icon: 'fa-twitter',
-      name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
+      icon: 'fa-linkedin',
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/robertoalvess2',
     },
     {
       icon: 'fa-facebook',
       name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
+      url: 'https://facebook.com/robertoalvess2',
     },
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:anubhav.srivastava00@gmail.com',
+      url: 'mailto:roberto@tecinovaservicos.com.br',
     },
   ],
 };
