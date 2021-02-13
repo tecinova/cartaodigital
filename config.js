@@ -2,12 +2,12 @@ module.exports = {
   siteTitle: 'Roberto Alves', // <title>
   manifestName: 'Roberto Alves',
   manifestShortName: 'Roberto Alves', // max 12 characters
-  manifestStartUrl: '/',
+  manifestStartUrl: 'https://roberto.tecinovaservicos.com.br/',
   manifestBackgroundColor: '#3B5997',
   manifestThemeColor: '#3B5997',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
-  pathPrefix: `/gatsby-starter-identity/`, // This path is subpath of your hosting https://domain/portfolio
+  pathPrefix: `https://roberto.tecinovaservicos.com.br/`, // This path is subpath of your hosting https://domain/portfolio
   authorName: 'Roberto Alves',
   heading: 'Tecnólogo',
   // social
