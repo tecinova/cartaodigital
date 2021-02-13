@@ -3,8 +3,8 @@ import Layout from '../components/Layout';
 
 const NotFoundPage = () => (
   <Layout darkText>
-    <h1>NOT FOUND</h1>
-    <p>Not a valid URL</p>
+    <h1>PÁGINA NÃO ENCONTRADA</h1>
+    <p>Esta não é uma URL válida :(</p>
   </Layout>
 );
 
