@@ -3,8 +3,8 @@ module.exports = {
   manifestName: 'Roberto Alves',
   manifestShortName: 'Roberto Alves', // max 12 characters
   manifestStartUrl: '/',
-  manifestBackgroundColor: '#663399',
-  manifestThemeColor: '#663399',
+  manifestBackgroundColor: '#3B5997',
+  manifestThemeColor: '#3B5997',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-identity/`, // This path is subpath of your hosting https://domain/portfolio
