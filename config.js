@@ -7,7 +7,7 @@ module.exports = {
   manifestThemeColor: '#3B5997',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
-  pathPrefix: `https://roberto.tecinovaservicos.com.br/`, // This path is subpath of your hosting https://domain/portfolio
+  pathPrefix: `/gatsby-starter-identity/`, // This path is subpath of your hosting https://domain/portfolio
   authorName: 'Roberto Alves',
   heading: 'Tecnólogo',
   // social
