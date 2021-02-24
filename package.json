@@ -1,14 +1,14 @@
 {
-  "name": "gatsby-starter-identity",
+  "name": "Roberto Alves",
   "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on Identity by HTML5 UP",
+  "description": "Cartão digital",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-identity.git"
+    "url": ""
   },
   "author": {
     "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "email": ""
   },
   "dependencies": {
     "gatsby": "^2.20.2",
@@ -42,7 +42,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-identity/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-identity#readme"
+  "homepage": ""
 }
