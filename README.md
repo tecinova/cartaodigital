@@ -7,10 +7,6 @@ For an overview of the project structure please refer to the [Gatsby documentati
 ![Screenshot](./src/assets/img/identity.jpg)
 
 
-## Screenshot
-
-![Screenshot](./src/assets/img/demo.png)
-
 ## Install
 
 Make sure that you have the Gatsby CLI program installed:
