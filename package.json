@@ -3,11 +3,11 @@
   "version": "0.0.1",
   "description": "Cartão digital",
   "repository": {
-    "type": "git",
+    "type": "",
     "url": ""
   },
   "author": {
-    "name": "Anubhav Srivastava",
+    "name": "",
     "email": ""
   },
   "dependencies": {
