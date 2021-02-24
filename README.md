@@ -1,4 +1,4 @@
-# gatsby-starter-identity
+# gatsby-starter
 
 Gatsby.js V2 starter template based on Identity by HTML5 UP
 
@@ -6,7 +6,6 @@ For an overview of the project structure please refer to the [Gatsby documentati
 
 ![Screenshot](./src/assets/img/identity.jpg)
 
-Check online preview [here](https://anubhavsrivastava.github.io/gatsby-starter-identity/)
 
 ## Screenshot
 
@@ -23,7 +22,6 @@ npm install --global gatsby-cli
 And run from your CLI:
 
 ```sh
-gatsby new <site-name> https://github.com/anubhavsrivastava/gatsby-starter-identity
 ```
 
 Then you can run it by:
@@ -40,16 +38,16 @@ Edit `config.js` to put up your details
 
 ```javascript
 module.exports = {
-  siteTitle: 'Gatsby Starter Identity', // <title>
+  siteTitle: 'Gatsby Starter', // <title>
   ...
   authorName: 'Anubhav Srivastava',
-  heading: 'Web Developer',
+  heading: '',
   // social
   socialLinks: [
     {
-      icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      icon: '',
+      name: '',
+      url: '',
     }
     ...
   ],
