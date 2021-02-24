@@ -37,5 +37,10 @@ module.exports = {
       name: 'Email',
       url: 'mailto:roberto@tecinovaservicos.com.br',
     },
+     {
+      icon: 'fa-download',
+      name: 'CV',
+      url: 'https://drive.google.com/file/d/1VQd044JfGt_kGnVyls1e_tzMzx3oGMWb/view?usp=sharing',
+    },
   ],
 };
