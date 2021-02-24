@@ -7,7 +7,7 @@ export default function PageFooter() {
       <ul className="copyright">
         <li>&copy; {config.authorName}</li>
         <li>
-          Créditos: @<a href="">Anubhav</a> {' '}
+          Tema: <a href="">Anubhav</a> {' '}
           <a href="">Srivastava</a>
         </li>
       </ul>
