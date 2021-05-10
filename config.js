@@ -38,9 +38,9 @@ module.exports = {
       url: 'mailto:roberto@tecinovaservicos.com.br',
     },
      {
-      icon: 'fa-download',
+      icon: 'fa-print',
       name: 'CV',
-      url: 'https://drive.google.com/file/d/1z8WHtzHFQP2WQNFNKWvWFMlURiab9pFX/view?usp=sharing',
+      url: 'https://drive.google.com/file/d/1mqQjQReipOCo3jWHK1FO0Kawta7R1ulf/view?usp=sharing',
     },
   ],
 };
