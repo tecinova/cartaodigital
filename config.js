@@ -14,8 +14,13 @@ module.exports = {
   socialLinks: [
     {
       icon: 'fa-globe',
-      name: 'Website',
+      name: 'Portfolio',
       url: 'https://tecinovaservicos.com.br',
+    },
+    {
+      icon: 'fa-tags',
+      name: 'Ofertas',
+      url: 'https://ofertas.tecinovaservicos.com.br/',
     },
      {
       icon: 'fa-whatsapp',
@@ -40,7 +45,7 @@ module.exports = {
      {
       icon: 'fa-print',
       name: 'CV',
-      url: 'https://drive.google.com/file/d/1mqQjQReipOCo3jWHK1FO0Kawta7R1ulf/view?usp=sharing',
+      url: 'https://drive.google.com/file/d/17fUYsroTvA65uA02la_gvLj55qw2W2nc/view?usp=sharing',
     },
   ],
 };
