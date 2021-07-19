@@ -33,14 +33,14 @@ module.exports = {
       url: 'mailto:roberto@tecinovaservicos.com.br',
     },
      {
-      icon: 'fa-whatsapp',
-      name: 'WhatsApp',
-      url: 'https://api.whatsapp.com/send/?phone=5573999384167',
-    },
-    {
       icon: 'fa-facebook',
       name: 'Facebook',
       url: 'https://facebook.com/robertoalvess2',
+    },
+    {
+      icon: 'fa-whatsapp',
+      name: 'WhatsApp',
+      url: 'https://api.whatsapp.com/send/?phone=5573999384167',
     },
        ],
 };
