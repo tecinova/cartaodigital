@@ -14,28 +14,18 @@ module.exports = {
   socialLinks: [
     {
       icon: 'fa-globe',
-      name: 'Portfolio',
+      name: 'Site',
       url: 'https://tecinovaservicos.com.br',
     },
-    {
-      icon: 'fa-tags',
-      name: 'Ofertas',
-      url: 'https://ofertas.tecinovaservicos.com.br/',
-    },
      {
-      icon: 'fa-whatsapp',
-      name: 'WhatsApp',
-      url: 'https://api.whatsapp.com/send/?phone=5573999384167',
-    },
-    {
       icon: 'fa-linkedin',
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/robertoalvess2',
     },
     {
-      icon: 'fa-facebook',
-      name: 'Facebook',
-      url: 'https://facebook.com/robertoalvess2',
+      icon: 'fa-print',
+      name: 'CV',
+      url: 'https://drive.google.com/file/d/17fUYsroTvA65uA02la_gvLj55qw2W2nc/view?usp=sharing',
     },
     {
       icon: 'fa-envelope-o',
@@ -43,9 +33,14 @@ module.exports = {
       url: 'mailto:roberto@tecinovaservicos.com.br',
     },
      {
-      icon: 'fa-print',
-      name: 'CV',
-      url: 'https://drive.google.com/file/d/17fUYsroTvA65uA02la_gvLj55qw2W2nc/view?usp=sharing',
+      icon: 'fa-whatsapp',
+      name: 'WhatsApp',
+      url: 'https://api.whatsapp.com/send/?phone=5573999384167',
     },
-  ],
+    {
+      icon: 'fa-facebook',
+      name: 'Facebook',
+      url: 'https://facebook.com/robertoalvess2',
+    },
+       ],
 };
