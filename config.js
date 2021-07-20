@@ -25,7 +25,7 @@ module.exports = {
     {
       icon: 'fa-print',
       name: 'CV',
-      url: 'https://drive.google.com/file/d/17fUYsroTvA65uA02la_gvLj55qw2W2nc/view?usp=sharing',
+      url: 'https://drive.google.com/file/d/1n7UBFEJyhSWtVHno3yTxFRpOb6reeiHs/view?usp=sharing',
     },
     {
       icon: 'fa-envelope-o',
