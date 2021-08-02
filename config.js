@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/`, // This path is subpath of your hosting https://domain/portfolio
   authorName: 'Roberto Alves',
-  heading: 'Tecnólogo',
+  heading: 'CEO & Founder na TECiNOVA',
   // social
   socialLinks: [
     {
